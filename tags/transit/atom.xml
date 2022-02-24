@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title> - transit</title>
+	<link href="https://facklambda.dev/tags/transit/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://facklambda.dev"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-02-20T00:00:00+00:00</updated>
+	<id>https://facklambda.dev/tags/transit/atom.xml</id>
+	<entry xml:lang="en">
+		<title>bust</title>
+		<published>2022-02-20T00:00:00+00:00</published>
+		<updated>2022-02-20T00:00:00+00:00</updated>
+		<link href="https://facklambda.dev/six/" type="text/html"/>
+		<id>https://facklambda.dev/six/</id>
+		<content type="html">&lt;p&gt;I&#x27;ve recently been working on a fun project that should be a useful general-utility CLI app that can parse &lt;a href=&quot;https:&#x2F;&#x2F;gtfs.org&#x2F;&quot;&gt;GTFS&lt;&#x2F;a&gt; data for arbitrary transit providers (so long as they publish GTFS data!). I would like to roll this project into a bigger one for displaying timestables on an actual display.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;The project is currently named &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;facklambda&#x2F;bust&quot;&gt;&#x27;bust&#x27;&lt;&#x2F;a&gt; which is a bit crass, but I like it so I&#x27;m sticking with it for the time being.&lt;&#x2F;p&gt;
+&lt;p&gt;Currently the major dependencies of the app are &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-transit&#x2F;gtfs-structure&quot;&gt;gtfs_structure&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;clap-rs&#x2F;clap&quot;&gt;clap&lt;&#x2F;a&gt;. I will likely need to write some code that will be heavily reliant on &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;seanmonstar&#x2F;reqwest&quot;&gt;reqwest&lt;&#x2F;a&gt; in order to implement a feature that polls transit provider specific APIs (in this case, &lt;a href=&quot;https:&#x2F;&#x2F;svc.metrotransit.org&#x2F;swagger&#x2F;index.html?urls.primaryName=NexTrip%20API%20-%20v2&quot;&gt;metrotransit&#x27;s nextripv2 api&lt;&#x2F;a&gt;).&lt;&#x2F;p&gt;
+&lt;p&gt;Currently I&#x27;m facing a problem with parsing the gtfs data in a timely manner. On my Raspberry Pi it takes about 30 seconds to parse the gtfs data into structs and the print out statistics regarding them. I believe this can be fine tuned, but don&#x27;t know exactly how at this time.&lt;&#x2F;p&gt;
+&lt;p&gt;greetz to fellow bus riding friends, the strange amount of european transit app developers who like to use Rust, my partner V for putting up with my &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Rubber_duck_debugging&quot;&gt;rubber duck debugging&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

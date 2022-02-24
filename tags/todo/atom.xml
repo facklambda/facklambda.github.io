@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title> - todo</title>
+	<link href="https://facklambda.dev/tags/todo/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://facklambda.dev"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-09-14T00:00:00+00:00</updated>
+	<id>https://facklambda.dev/tags/todo/atom.xml</id>
+	<entry xml:lang="en">
+		<title>git gud</title>
+		<published>2021-09-14T00:00:00+00:00</published>
+		<updated>2021-09-14T00:00:00+00:00</updated>
+		<link href="https://facklambda.dev/three/" type="text/html"/>
+		<id>https://facklambda.dev/three/</id>
+		<content type="html">&lt;p&gt;I&#x27;ve moved. Twice. since the last post on here. So much for daily updates. it&#x27;s been 2 years not much has changed.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;I&#x27;m going to go through the TODOs list I had previously created and narrow things down, update what I&#x27;ve done, and maybe prune things I&#x27;m no longer interested in doing from it. As you can tell this site has gotten a bit stale (and has changed locations, as far as domains are concerned lol).&lt;&#x2F;p&gt;
+&lt;h5 id=&quot;todo&quot;&gt;TODO&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;some vague car hacking project
+&lt;ul&gt;
+&lt;li&gt;OBD-II telemetry&#x2F;DIY Lo-Jack&lt;&#x2F;li&gt;
+&lt;li&gt;Appsec&#x2F;netsec pentesting of in car infotainment units (*hilariously insecu$&lt;&#x2F;li&gt;
+&lt;li&gt;CAN bus hacking:
+&lt;ul&gt;
+&lt;li&gt;to enable modifications of dashboard&#x2F;infotainment gauges&lt;&#x2F;li&gt;
+&lt;li&gt;to translate CAN signals from non-stock components for the stock gauge$&lt;&#x2F;li&gt;
+&lt;li&gt;to build racing sym setups using junkyard car parts
+&lt;ul&gt;
+&lt;li&gt;I have everythiNg I need to build a USB plug in Mazda3 dashboard.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;I did nothing from here beyond discovering some cool folks here in North Minneapolis are the proprietors of the Macchina.cc CAN suite.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;wrenching on a car
+&lt;ul&gt;
+&lt;li&gt;one of those projects were i consistently use the incorrect tools (hacksaw$&lt;&#x2F;li&gt;
+&lt;li&gt;I desparately want to build a racecar
+&lt;ul&gt;
+&lt;li&gt;My &#x27;89 AW11 MR2 needs some resto work
+&lt;ul&gt;
+&lt;li&gt;I have a K swap entirely planned and priced out, however I don&#x27;t t$&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;My &#x27;16 BRZ needs &lt;strong&gt;MORE POWAHHHHHH&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;LS swap is something I&#x27;m saving up for.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;LIGHTNING&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;LIGHTNING&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;LIGHTNING&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Hey speaking of lightning, I&#x27;m fully electric car pilled now.
+Squaring wanting a race car with also wanting to not live on a dying planet has caused me a considerable amount of cognitive dissonance. And with the last 2 years of pandemic related lockdowns and general hermitage, I didn&#x27;t really drive much.
+The BRZ has proven to be a fun car, but new cars fucking suck to work on, too much fiddly shit that I&#x27;m prone to breaking.
+I&#x27;m planning on taking my rustbucket MR2 and putting a Nissan Leaf engine in it. It&#x27;s been done before, and frankly looks like less of a headache than trying to cram some fucking Honda K-series engine in there. Finally have a garage, and some spare cash to throw at this kind of thing.
+I&#x27;ve satiated my urges to wrench on shit by helping my buddy j3s with his Saturn Ion, helping my sibling a little with a Isuzu Hombre, and memorizing the entire wiring diagram of the passenger side of my Subaru BRZ (THAT FUCKIN SUCKED YO) &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;arcade cabinet
+&lt;ul&gt;
+&lt;li&gt;basically a fan project for the original Risk of Rain game, my alltime fav$&lt;&#x2F;li&gt;
+&lt;li&gt;I want to make a 4 player standup cabinet, with lots of LEDs, an animated $&lt;&#x2F;li&gt;
+&lt;li&gt;using a mod loader I wanted to create an API for triggering animations and$
+&lt;ul&gt;
+&lt;li&gt;this requires programming knowledge slightly beyond my skill level atm&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;woodworking!
+&lt;ul&gt;
+&lt;li&gt;gotta buy the proper tools lol&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;This project got the best of me most of this summer, however I quickly realized my dream arcade cabinet was far to big to fit in anywhere at my house, and I quickly grew disillusioned, because I didn&#x27;t want to make some crappy pedestal style arcade that would need hooked up to some random video output.
+I&#x27;m sure I&#x27;ll revisit this, but maybe when I&#x27;m more apt to donate a grand worth of arcade shit to a space where it would be appreciated.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;general programming stuff lol
+&lt;ul&gt;
+&lt;li&gt;rust is really fun so far I&#x27;ve written a tiny bit&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Done quite a lot here.
+- something on cloudflare workers would be fun to build
+- i don&#x27;t like maintaining servers&lt;&#x2F;p&gt;
+&lt;p&gt;MY FRIEND RECOMMENDED ME FOR A JOB WHERE I DO THIS FOR A LIVING LOL (lambda)
+- a towerdefense game&lt;&#x2F;p&gt;
+&lt;p&gt;still haven&#x27;t done this, still want to do this
+- embedded stuff for a bunch of the above projects&lt;&#x2F;p&gt;
+&lt;p&gt;been playing with an esp32-c3 and making leds blink so hell yeah i&#x27;ve made progress here
+- a mobile app that does something fun idk what yet&lt;&#x2F;p&gt;
+&lt;p&gt;made a proof of concept app using flutter that gamified not charging your phone. :shrug: it was for ludum dare
+- some embedded firmware stuff for open-source bootloaders, on either androi$&lt;&#x2F;p&gt;
+&lt;p&gt;nothing to show for this
+- demoscene stuff, just absolutely gives me goosebumps every time i interact$
+- there was a project that enabled opensource controll of my RGB keyboar$
+- same with android bootloader animations
+- apparently bootloader animations across any opensource stuff (coreboot$&lt;&#x2F;p&gt;
+&lt;p&gt;basically got drunk with roomates and just taught them about demoscene culture lmao&lt;br &#x2F;&gt;
+- plugin for zola (the static site generator that makes this site) to enable$&lt;&#x2F;p&gt;
+&lt;pre&gt;&lt;code&gt;highkey fell off of this
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ul&gt;
+&lt;li&gt;building a new pc&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;NOPE LOL, CHIP SHORTAGES, CRYPTOCURRENCY FUELED SCALPERS. ARM SoCs are the future anyways. replace your desktop with a server somewhere it&#x27;ll get better connectivity and carbon neutral power&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;streaming stuff on twitch&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Done. check me out at twitch.tv&#x2F;facklambda&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;working with my friends on cyberia.club significanly more&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Oops, I&#x27;ve kinda avoided&#x2F;fallen out of touch with cyberia. They recently got a physical space that I will try to show up to more often.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;reading more, i&#x27;m a news junkie, but i&#x27;d like to read more &lt;em&gt;shudder&lt;&#x2F;em&gt; Theory wi$&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Did an alright job of this, finished the Three-Body Problem, started reading #Accelerate: The Accelerationist Reader&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;blogging, dumping some thoughts into a journal anyone can read&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;lol, evidently not&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;general cypherpunkery&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;idk, got an assload of friends to join Signal during the Minneapolis uprisings&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;getting certified to use the machine shop at the Hack Factory&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;em&gt;tf2 engineer voice&lt;&#x2F;em&gt; &amp;quot;NOPE&amp;quot;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;3d printing (car accessories mostly)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;There&#x27;s still some interest here, but damn it&#x27;s one of those things where I ask myself: &amp;quot;does the world really need more random plastic junk?&amp;quot;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;netsec
+&lt;ul&gt;
+&lt;li&gt;websec seems to be my primary talent area, since i work with webapps all d$&lt;&#x2F;li&gt;
+&lt;li&gt;appsec interests me a lot as well since that typically is the venue for re$&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;now, websec is a talent area, but I&#x27;m truly more fascinated by the fields of Trusted Computing, systems level isolation, hypervisors and stuff like homomorphic encryption. So not much progress on this front.&lt;&#x2F;p&gt;
+&lt;p&gt;If any of this stuff also sounds interesting to you, or you wanna talk about it,$&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;I&#x27;d like to thank my friend j3s for listening to me breathlessly talk about certain tech stacks and connecting the dots from there to an awesome job opportunity that I&#x27;ve since taken. My life has improved in ways you cannot imagine, thanks friend.&lt;&#x2F;p&gt;
+&lt;p&gt;greetz to v, wendy, jo, jamin, j3s, vvesley, johnnie, nyx, junk, nildicit, kaworu, shoggoth, starless, elisha, cass, forest, lief, aimless, mc_crash, skh, kurt, justin, taylor, jackson, pearl&lt;&#x2F;p&gt;
+&lt;p&gt;fuckingz to all my former landlords, cryptocurrency miners using fossil fuels, hoarders, even more unfinished projects, and the entire concept of procrastination.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>TODO</title>
+		<published>2020-08-02T00:00:00+00:00</published>
+		<updated>2020-08-02T00:00:00+00:00</updated>
+		<link href="https://facklambda.dev/two/" type="text/html"/>
+		<id>https://facklambda.dev/two/</id>
+		<content type="html">&lt;p&gt;This week I told my landlord that I&#x27;m moving out. &lt;em&gt;Sidenote: I&#x27;m currently looking for a place to move into by October 1st :) if you know of anything, hmu.&lt;&#x2F;em&gt; In this process, I have begun to take inventory of all the stuff I&#x27;ve accumulated during my occupation of this unit, and I see a lot of half-assed attempts at unfinished projects. So in the interest of no-one, I am going to make a public TODO list of random bullshit I&#x27;d like to work on.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;A large portion of my projects seem to be heavily influenced by my itch to work on embedded electronics, but are hamstrung my complete unwillingness to learn anything about electronics, eletrical signals, and my utter disdain for purchasing the proper equipment. As far as these projects go, they seem to be mostly unified around building an arcade cabinet and sniffing&#x2F;hacking CAN bus stuff from my car&#x27;s OBD-II port.&lt;&#x2F;p&gt;
+&lt;p&gt;Anyway enough weird excuses and whining about why I haven&#x27;t done any of these yet. Here&#x27;s an insanely unstructured list.&lt;&#x2F;p&gt;
+&lt;h5 id=&quot;todo&quot;&gt;TODO&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;some vague car hacking project
+&lt;ul&gt;
+&lt;li&gt;OBD-II telemetry&#x2F;DIY Lo-Jack&lt;&#x2F;li&gt;
+&lt;li&gt;Appsec&#x2F;netsec pentesting of in car infotainment units (&lt;em&gt;hilariously insecure in older cars&lt;&#x2F;em&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;CAN bus hacking:
+&lt;ul&gt;
+&lt;li&gt;to enable modifications of dashboard&#x2F;infotainment gauges&lt;&#x2F;li&gt;
+&lt;li&gt;to translate CAN signals from non-stock components for the stock gauges to interpret&lt;&#x2F;li&gt;
+&lt;li&gt;to build racing sym setups using junkyard car parts 
+&lt;ul&gt;
+&lt;li&gt;I have everythiNg I need to build a USB plug in Mazda3 dashboard.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;wrenching on a car
+&lt;ul&gt;
+&lt;li&gt;one of those projects were i consistently use the incorrect tools (hacksawing off my rusty sway bar?!? &lt;strong&gt;Yes.&lt;&#x2F;strong&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;I desparately want to build a racecar
+&lt;ul&gt;
+&lt;li&gt;My &#x27;89 AW11 MR2 needs some resto work
+&lt;ul&gt;
+&lt;li&gt;I have a K swap entirely planned and priced out, however I don&#x27;t think this car is in shape to do so.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;My &#x27;16 BRZ needs &lt;strong&gt;MORE POWAHHHHHH&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;LS swap is something I&#x27;m saving up for.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;LIGHTNING&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;LIGHTNING&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;LIGHTNING&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;arcade cabinet
+&lt;ul&gt;
+&lt;li&gt;basically a fan project for the original Risk of Rain game, my alltime favorite videogame.&lt;&#x2F;li&gt;
+&lt;li&gt;I want to make a 4 player standup cabinet, with lots of LEDs, an animated tickerboard for high-scores, and some leds or tiny screen inlays on the control panel&lt;&#x2F;li&gt;
+&lt;li&gt;using a mod loader I wanted to create an API for triggering animations and lighting effects from the game&#x27;s state.
+&lt;ul&gt;
+&lt;li&gt;this requires programming knowledge slightly beyond my skill level atm&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;woodworking!
+&lt;ul&gt;
+&lt;li&gt;gotta buy the proper tools lol&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;general programming stuff lol
+&lt;ul&gt;
+&lt;li&gt;rust is really fun so far I&#x27;ve written a tiny bit.&lt;&#x2F;li&gt;
+&lt;li&gt;something on cloudflare workers would be fun to build
+&lt;ul&gt;
+&lt;li&gt;i don&#x27;t like maintaining servers&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;a towerdefense game&lt;&#x2F;li&gt;
+&lt;li&gt;embedded stuff for a bunch of the above projects&lt;&#x2F;li&gt;
+&lt;li&gt;a mobile app that does something fun idk what yet&lt;&#x2F;li&gt;
+&lt;li&gt;some embedded firmware stuff for open-source bootloaders, on either android devices or chromeos devices&lt;&#x2F;li&gt;
+&lt;li&gt;demoscene stuff, just absolutely gives me goosebumps every time i interact with it, i know i would love this
+&lt;ul&gt;
+&lt;li&gt;there was a project that enabled opensource controll of my RGB keyboard&#x27;s LEDs and i thought that&#x27;d be a fun target&lt;&#x2F;li&gt;
+&lt;li&gt;same with android bootloader animations&lt;&#x2F;li&gt;
+&lt;li&gt;apparently bootloader animations across any opensource stuff (coreboot, oreboot, uboot, libreboot)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;plugin for zola (the static site generator that makes this site) to enable webmentions and other indieweb stuff&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;building a new pc&lt;&#x2F;li&gt;
+&lt;li&gt;streaming stuff on twitch&lt;&#x2F;li&gt;
+&lt;li&gt;working with my friends on cyberia.club significanly more&lt;&#x2F;li&gt;
+&lt;li&gt;reading more, i&#x27;m a news junkie, but i&#x27;d like to read more &lt;em&gt;shudder&lt;&#x2F;em&gt; Theory with a capital T.&lt;&#x2F;li&gt;
+&lt;li&gt;blogging, dumping some thoughts into a journal anyone can read&lt;&#x2F;li&gt;
+&lt;li&gt;general cypherpunkery&lt;&#x2F;li&gt;
+&lt;li&gt;getting certified to use the machine shop at the Hack Factory&lt;&#x2F;li&gt;
+&lt;li&gt;3d printing (car accessories mostly)&lt;&#x2F;li&gt;
+&lt;li&gt;netsec
+&lt;ul&gt;
+&lt;li&gt;websec seems to be my primary talent area, since i work with webapps all day long.&lt;&#x2F;li&gt;
+&lt;li&gt;appsec interests me a lot as well since that typically is the venue for reversing and ~~hacking~~liberating embedded electronics and iot stuff&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;If any of this stuff also sounds interesting to you, or you wanna talk about it, or you wanna even work on it, feel free to hmu on the matrix network @fack:cyberia.club. The computer club I&#x27;m part of hosts a homeserver available to the public, they&#x27;re linked below. :)&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;greetz to v, kurt, jordan, cory, kev, ash, jo, j3s, vvesley, nyx, junk, nildicit, kaworu, shoggoth, starless, cass, forest, aimless, mc_crash, skh, twitter mufos, and the &lt;a href=&quot;https:&#x2F;&#x2F;cyberia.club&quot;&gt;cyberia.club&lt;&#x2F;a&gt; crew&lt;&#x2F;p&gt;
+&lt;p&gt;fuckingz to my current landlord, hoarders, unfinished projects, and clutter&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

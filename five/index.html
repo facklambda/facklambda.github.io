@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+      <!-- Enable responsiveness on mobile devices-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+      <title></title>
+
+      
+        <link rel="alternate" type="application/atom+xml" title="RSS" href="https://facklambda.dev/atom.xml">
+      
+
+      
+          <link rel="stylesheet" href="https://facklambda.dev/site.css">
+      
+
+      
+      
+    </head>
+
+    <body class="hack dark main container">
+        
+    
+        
+                
+                    <header>
+                        <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
+                        
+                            <a itemprop="url"
+                               class=""
+                               href="https:&#x2F;&#x2F;facklambda.dev">
+                                <span itemprop="name">~&#x2F;
+                                </span></a>
+                        
+                            <a itemprop="url"
+                               class=""
+                               href="https:&#x2F;&#x2F;facklambda.dev&#x2F;categories">
+                                <span itemprop="name">Categories
+                                </span></a>
+                        
+                            <a itemprop="url"
+                               class=""
+                               href="https:&#x2F;&#x2F;facklambda.dev&#x2F;tags">
+                                <span itemprop="name">Tags
+                                </span></a>
+                        
+                        </nav>
+                    </header>
+                
+            
+    
+
+<article itemscope itemtype="http://schema.org/BlogPosting">
+    <header>
+        <h1 itemprop="headline">beerlicht pt 2</h1>
+        <span class="muted">
+    <svg style="margin-bottom:-3px" class="i-clock" viewBox="0 0 32 32"
+         width="16" height="16" fill="none" stroke="currentcolor"
+         stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
+        <circle cx="16" cy="16" r="14"/>
+        <path d="M16 8 L16 16 20 20"/>
+    </svg>
+    <span>2 minute read</span>
+    <svg style="margin-bottom: -3px" class="i-edit" viewBox="0 0 32 32"
+         width="16" height="16" fill="none" stroke="currentcolor"
+         stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
+        <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z"/>
+    </svg>
+
+    Published: 2022-02-19
+</span>
+    </header>
+    <div itemprop="articleBody">
+      <p>I've made leaps and bounds of progress on this project once I decided to start a bit smaller!</p>
+<p>Rather than being a bit over-ambitious, which is learning rust without much foundation on a relatively new embedded system (ESP32-C3) with relatively little documentation (it's vastly improved since my last blog post). I readjusted my ambitions and settled on a more realistic goal of getting it all to run on a raspberry pi.</p>
+<span id="continue-reading"></span>
+<p>Parts list so far:</p>
+<ul>
+<li><del>ESP32-C3</del></li>
+<li>Raspberry Pi 2b+ (running raspbian)</li>
+<li>string of 25 WS2812b LEDs</li>
+<li>25 glass bottles</li>
+<li>a milk crate</li>
+<li>3 dupont wires</li>
+</ul>
+<hr />
+<p>After spending a few months hoarding glass beverage bottles, I finally amassed the proper amount of correctly sized bottles to fit a 5 by 5 grid in the milk crate. Cutting the daisychained strip of 50 WS2812b LEDs in half and placing one of each of the 25 LEDs into the mouth of each bottle was very simple. Hooking them up to the raspberry pi also proved to be simple, just direct connect the corresponding wires to a 5v pin, a SPI GPIO pin, and a ground pin.</p>
+<h1 id="the-code">The Code:</h1>
+<p>I'm pretty new to writing rust code, and embedded electronics, but I have a basic knowledge of most concepts involved. I again had to recalibrate my expectations for this project. There's no way I'm going to get up and running very quickly if I try to code this all myself, so I'm leaning heavily on <a href="https://github.com/phip1611/ws2818-rgb-led-spi-driver">Philipp Schuster's very simple ws281x led driver rust code</a>. This got me up and running with a nice set of examples and demo code that I could rely on for a quick dopamine rush (I particularly like the way the <a href="https://github.com/phip1611/ws2818-rgb-led-spi-driver/blob/main/examples/src/bin/nxn-pulsating-square.rs">pulsating square demo</a> looks).</p>
+<p>As of writing this post, beerlicht's published code still just a <a href="https://github.com/facklambda/beerlicht">repo</a> containing Philipp's code.</p>
+<p>Next steps for this project will be writing the networking code and the logic that lights each light up based on network activity.</p>
+<p>greetz to Philipp, V, and all my friends who've been subjected to me showing this off.</p>
+
+    </div>
+
+    
+        <footer>
+            <hr>
+            <p>
+                
+                
+                    
+                    in <a href="https://facklambda.dev/categories/projects/">projects</a>
+                
+                
+                    and tagged
+                    
+                        <a href="https://facklambda.dev/tags/rust/">rust</a>
+                        
+                            
+                                
+                                    ,
+                                
+                            
+                        
+                    
+                        <a href="https://facklambda.dev/tags/iot/">iot</a>
+                        
+                            
+                                
+                                    ,
+                                
+                            
+                        
+                    
+                        <a href="https://facklambda.dev/tags/art/">art</a>
+                        
+                            
+                                
+                                    ,
+                                
+                            
+                        
+                    
+                        <a href="https://facklambda.dev/tags/ws281x/">ws281x</a>
+                        
+                            
+                                
+                                    and
+                                
+                            
+                        
+                    
+                        <a href="https://facklambda.dev/tags/leds/">leds</a>
+                        
+                            
+                        
+                    
+                
+            </p>
+        </footer>
+    
+</article>
+
+
+    </body>
+
+</html>
