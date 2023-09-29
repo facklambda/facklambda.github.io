@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - cli</title>
+    <link href="https://facklambda.dev/tags/cli/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://facklambda.dev"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-02-20T00:00:00+00:00</updated>
+    <id>https://facklambda.dev/tags/cli/atom.xml</id>
+    <entry xml:lang="en">
+        <title>bust</title>
+        <published>2022-02-20T00:00:00+00:00</published>
+        <updated>2022-02-20T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://facklambda.dev/six/" type="text/html"/>
+        <id>https://facklambda.dev/six/</id>
+        
+        <summary type="html">&lt;p&gt;I&#x27;ve recently been working on a fun project that should be a useful general-utility CLI app that can parse &lt;a href=&quot;https:&#x2F;&#x2F;gtfs.org&#x2F;&quot;&gt;GTFS&lt;&#x2F;a&gt; data for arbitrary transit providers (so long as they publish GTFS data!). I would like to roll this project into a bigger one for displaying timestables on an actual display.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

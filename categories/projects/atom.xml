@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - projects</title>
+    <link href="https://facklambda.dev/categories/projects/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://facklambda.dev"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-02-20T00:00:00+00:00</updated>
+    <id>https://facklambda.dev/categories/projects/atom.xml</id>
+    <entry xml:lang="en">
+        <title>bust</title>
+        <published>2022-02-20T00:00:00+00:00</published>
+        <updated>2022-02-20T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://facklambda.dev/six/" type="text/html"/>
+        <id>https://facklambda.dev/six/</id>
+        
+        <summary type="html">&lt;p&gt;I&#x27;ve recently been working on a fun project that should be a useful general-utility CLI app that can parse &lt;a href=&quot;https:&#x2F;&#x2F;gtfs.org&#x2F;&quot;&gt;GTFS&lt;&#x2F;a&gt; data for arbitrary transit providers (so long as they publish GTFS data!). I would like to roll this project into a bigger one for displaying timestables on an actual display.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>beerlicht pt 2</title>
+        <published>2022-02-19T00:00:00+00:00</published>
+        <updated>2022-02-19T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://facklambda.dev/five/" type="text/html"/>
+        <id>https://facklambda.dev/five/</id>
+        
+        <summary type="html">&lt;p&gt;I&#x27;ve made leaps and bounds of progress on this project once I decided to start a bit smaller!&lt;&#x2F;p&gt;
+&lt;p&gt;Rather than being a bit over-ambitious, which is learning rust without much foundation on a relatively new embedded system (ESP32-C3) with relatively little documentation (it&#x27;s vastly improved since my last blog post). I readjusted my ambitions and settled on a more realistic goal of getting it all to run on a raspberry pi.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>beerlicht</title>
+        <published>2021-09-14T00:00:00+00:00</published>
+        <updated>2021-09-14T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://facklambda.dev/four/" type="text/html"/>
+        <id>https://facklambda.dev/four/</id>
+        
+        <summary type="html">&lt;p&gt;I&#x27;ve started on a fun little art project based losely off of &lt;a href=&quot;https:&#x2F;&#x2F;www.noisebridge.net&#x2F;wiki&#x2F;Flaschen_Taschen&quot;&gt;noisebridge&#x27;s Flaschen Taschen&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;matelight.rocks&quot;&gt;c-base&#x27;s Mate-Light&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;My twist on the project is that it will be an ambient light that reacts to traffic on the local network (and maybe even the wide area network).&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

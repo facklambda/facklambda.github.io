@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - priority</title>
+    <link href="https://facklambda.dev/tags/priority/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://facklambda.dev"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2021-09-14T00:00:00+00:00</updated>
+    <id>https://facklambda.dev/tags/priority/atom.xml</id>
+    <entry xml:lang="en">
+        <title>git gud</title>
+        <published>2021-09-14T00:00:00+00:00</published>
+        <updated>2021-09-14T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://facklambda.dev/three/" type="text/html"/>
+        <id>https://facklambda.dev/three/</id>
+        
+        <summary type="html">&lt;p&gt;I&#x27;ve moved. Twice. since the last post on here. So much for daily updates. it&#x27;s been 2 years not much has changed.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>TODO</title>
+        <published>2020-08-02T00:00:00+00:00</published>
+        <updated>2020-08-02T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://facklambda.dev/two/" type="text/html"/>
+        <id>https://facklambda.dev/two/</id>
+        
+        <summary type="html">&lt;p&gt;This week I told my landlord that I&#x27;m moving out. &lt;em&gt;Sidenote: I&#x27;m currently looking for a place to move into by October 1st :) if you know of anything, hmu.&lt;&#x2F;em&gt; In this process, I have begun to take inventory of all the stuff I&#x27;ve accumulated during my occupation of this unit, and I see a lot of half-assed attempts at unfinished projects. So in the interest of no-one, I am going to make a public TODO list of random bullshit I&#x27;d like to work on.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

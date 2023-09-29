@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title></title>
+    <link href="https://facklambda.dev/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://facklambda.dev"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-02-23T00:00:00+00:00</updated>
+    <id>https://facklambda.dev/atom.xml</id>
+    <entry xml:lang="en">
+        <title>mineshaft gap</title>
+        <published>2022-02-23T00:00:00+00:00</published>
+        <updated>2022-02-23T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://facklambda.dev/seven/" type="text/html"/>
+        <id>https://facklambda.dev/seven/</id>
+        
+        <summary type="html">&lt;p&gt;I rewatched &lt;em&gt;Dr. Strangelove: Or How I Stopped Worrying and Learned to Love the Bomb&lt;&#x2F;em&gt; along with my partner and a close friend, neither of which had seen the movie before. The movie satirizes the bureaucratic, process oriented mindset of cold war era politicians and military men, and remains both prescient and relevant to this day. There&#x27;s a scene in the movie where the great men are panicking over a percieved &amp;quot;mineshaft gap&amp;quot;. Many actions in the cold war were driven by the paranoid minds in charge of the military-industrial-inferiority complex. Every percieved advantage the other side had was deemed a &amp;quot;gap&amp;quot;, in the movie we watch them decry the &amp;quot;missile gap&amp;quot;, the &amp;quot;doomsday machine gap&amp;quot;, and finally the &amp;quot;mineshaft gap&amp;quot;.&lt;&#x2F;p&gt;
+&lt;p&gt;Mind the gap...&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>bust</title>
+        <published>2022-02-20T00:00:00+00:00</published>
+        <updated>2022-02-20T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://facklambda.dev/six/" type="text/html"/>
+        <id>https://facklambda.dev/six/</id>
+        
+        <summary type="html">&lt;p&gt;I&#x27;ve recently been working on a fun project that should be a useful general-utility CLI app that can parse &lt;a href=&quot;https:&#x2F;&#x2F;gtfs.org&#x2F;&quot;&gt;GTFS&lt;&#x2F;a&gt; data for arbitrary transit providers (so long as they publish GTFS data!). I would like to roll this project into a bigger one for displaying timestables on an actual display.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>beerlicht pt 2</title>
+        <published>2022-02-19T00:00:00+00:00</published>
+        <updated>2022-02-19T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://facklambda.dev/five/" type="text/html"/>
+        <id>https://facklambda.dev/five/</id>
+        
+        <summary type="html">&lt;p&gt;I&#x27;ve made leaps and bounds of progress on this project once I decided to start a bit smaller!&lt;&#x2F;p&gt;
+&lt;p&gt;Rather than being a bit over-ambitious, which is learning rust without much foundation on a relatively new embedded system (ESP32-C3) with relatively little documentation (it&#x27;s vastly improved since my last blog post). I readjusted my ambitions and settled on a more realistic goal of getting it all to run on a raspberry pi.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>beerlicht</title>
+        <published>2021-09-14T00:00:00+00:00</published>
+        <updated>2021-09-14T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://facklambda.dev/four/" type="text/html"/>
+        <id>https://facklambda.dev/four/</id>
+        
+        <summary type="html">&lt;p&gt;I&#x27;ve started on a fun little art project based losely off of &lt;a href=&quot;https:&#x2F;&#x2F;www.noisebridge.net&#x2F;wiki&#x2F;Flaschen_Taschen&quot;&gt;noisebridge&#x27;s Flaschen Taschen&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;matelight.rocks&quot;&gt;c-base&#x27;s Mate-Light&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;My twist on the project is that it will be an ambient light that reacts to traffic on the local network (and maybe even the wide area network).&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>git gud</title>
+        <published>2021-09-14T00:00:00+00:00</published>
+        <updated>2021-09-14T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://facklambda.dev/three/" type="text/html"/>
+        <id>https://facklambda.dev/three/</id>
+        
+        <summary type="html">&lt;p&gt;I&#x27;ve moved. Twice. since the last post on here. So much for daily updates. it&#x27;s been 2 years not much has changed.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>hello, friend.</title>
+        <published>2020-08-02T00:00:00+00:00</published>
+        <updated>2020-08-02T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://facklambda.dev/one/" type="text/html"/>
+        <id>https://facklambda.dev/one/</id>
+        
+        <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;&#x27;Hello, friend?&amp;quot; That&#x27;s lame. Maybe I should give you a name. But that&#x27;s a slippery slope. You&#x27;re only in my head. We have to remember that. Shit. It&#x27;s actually happened. I&#x27;m talking to an imaginary person. What I&#x27;m about to tell you is top secret. A conspiracy bigger than all of us. There&#x27;s a powerful group of people out there that are secretly running the world. I&#x27;m talking about the guys no one knows about. The guys that are invisible. The top one percent of the top one percent. The guys that play God without permission. And now I think they&#x27;re following me.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>TODO</title>
+        <published>2020-08-02T00:00:00+00:00</published>
+        <updated>2020-08-02T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://facklambda.dev/two/" type="text/html"/>
+        <id>https://facklambda.dev/two/</id>
+        
+        <summary type="html">&lt;p&gt;This week I told my landlord that I&#x27;m moving out. &lt;em&gt;Sidenote: I&#x27;m currently looking for a place to move into by October 1st :) if you know of anything, hmu.&lt;&#x2F;em&gt; In this process, I have begun to take inventory of all the stuff I&#x27;ve accumulated during my occupation of this unit, and I see a lot of half-assed attempts at unfinished projects. So in the interest of no-one, I am going to make a public TODO list of random bullshit I&#x27;d like to work on.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

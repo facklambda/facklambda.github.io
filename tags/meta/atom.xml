@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - meta</title>
+    <link href="https://facklambda.dev/tags/meta/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://facklambda.dev"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-02-23T00:00:00+00:00</updated>
+    <id>https://facklambda.dev/tags/meta/atom.xml</id>
+    <entry xml:lang="en">
+        <title>mineshaft gap</title>
+        <published>2022-02-23T00:00:00+00:00</published>
+        <updated>2022-02-23T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://facklambda.dev/seven/" type="text/html"/>
+        <id>https://facklambda.dev/seven/</id>
+        
+        <summary type="html">&lt;p&gt;I rewatched &lt;em&gt;Dr. Strangelove: Or How I Stopped Worrying and Learned to Love the Bomb&lt;&#x2F;em&gt; along with my partner and a close friend, neither of which had seen the movie before. The movie satirizes the bureaucratic, process oriented mindset of cold war era politicians and military men, and remains both prescient and relevant to this day. There&#x27;s a scene in the movie where the great men are panicking over a percieved &amp;quot;mineshaft gap&amp;quot;. Many actions in the cold war were driven by the paranoid minds in charge of the military-industrial-inferiority complex. Every percieved advantage the other side had was deemed a &amp;quot;gap&amp;quot;, in the movie we watch them decry the &amp;quot;missile gap&amp;quot;, the &amp;quot;doomsday machine gap&amp;quot;, and finally the &amp;quot;mineshaft gap&amp;quot;.&lt;&#x2F;p&gt;
+&lt;p&gt;Mind the gap...&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>hello, friend.</title>
+        <published>2020-08-02T00:00:00+00:00</published>
+        <updated>2020-08-02T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://facklambda.dev/one/" type="text/html"/>
+        <id>https://facklambda.dev/one/</id>
+        
+        <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;&#x27;Hello, friend?&amp;quot; That&#x27;s lame. Maybe I should give you a name. But that&#x27;s a slippery slope. You&#x27;re only in my head. We have to remember that. Shit. It&#x27;s actually happened. I&#x27;m talking to an imaginary person. What I&#x27;m about to tell you is top secret. A conspiracy bigger than all of us. There&#x27;s a powerful group of people out there that are secretly running the world. I&#x27;m talking about the guys no one knows about. The guys that are invisible. The top one percent of the top one percent. The guys that play God without permission. And now I think they&#x27;re following me.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</summary>
+        
+    </entry>
+</feed>
